@@ -1,0 +1,6 @@
+# https://editorconfig.org
+
+root = false
+
+[Makefile]
+indent_style = tab

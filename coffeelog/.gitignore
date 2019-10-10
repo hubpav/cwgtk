@@ -1,0 +1,8 @@
+.eggs/
+*.egg-info/
+*.pyc
+build/
+coffeelog.db
+coffeelog/__pycache__/
+dist/
+env/
